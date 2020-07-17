@@ -1,0 +1,21 @@
+@import url('https://coolors.co/485696-e7e7e7-f9c784-fc7a1e-f24c00');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+
+h1 {
+    font-family: 'Righteous', cursive;
+}
+
+h2 {
+    font-family: 'Concert One', cursive;
+}
+
+.textBackground {
+    background-color:'485696';
+}
+
+.pageOneBackground {
+    background-color: 485696;
+}
+ 
